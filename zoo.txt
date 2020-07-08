@@ -1,3 +1,5 @@
 1- Giraffe.
 2- Lion.
 3- Tiger.
+4- Gorillas.
+5- Cheetah.
